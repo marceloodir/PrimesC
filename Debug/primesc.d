@@ -1,0 +1,1 @@
+primesc.d: ../primesc.c
